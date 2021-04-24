@@ -1,0 +1,5 @@
+XSym
+0065
+e707d454606ff6e2a88e077c11f61e3a
+../../../Backendless/SDK/ios/backendless/include/ClientCallback.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0065
+3c03eaf98ae13b533f67b21283a0cbd0
+../../../Backendless/SDK/ios/backendless/include/DefaultAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

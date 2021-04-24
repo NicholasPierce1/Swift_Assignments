@@ -1,0 +1,5 @@
+XSym
+0067
+b1ab52f960afa144968b3b770ae0af8d
+../../../Backendless/SDK/ios/backendless/include/UserStatusObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

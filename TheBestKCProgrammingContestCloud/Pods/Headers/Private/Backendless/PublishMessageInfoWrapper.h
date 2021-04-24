@@ -1,0 +1,5 @@
+XSym
+0076
+9392c8f5b1759a7698994475d426e669
+../../../Backendless/SDK/ios/backendless/include/PublishMessageInfoWrapper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

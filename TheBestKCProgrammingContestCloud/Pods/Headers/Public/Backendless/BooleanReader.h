@@ -1,0 +1,5 @@
+XSym
+0064
+426bfadf8a813063ca71b0a3f722ce0e
+../../../Backendless/SDK/ios/backendless/include/BooleanReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

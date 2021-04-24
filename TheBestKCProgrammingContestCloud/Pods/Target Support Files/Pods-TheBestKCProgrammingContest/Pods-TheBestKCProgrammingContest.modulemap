@@ -1,0 +1,6 @@
+framework module Pods_TheBestKCProgrammingContest {
+  umbrella header "Pods-TheBestKCProgrammingContest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+XSym
+0059
+cfacffaabd0632b48fb1967519e38825
+../../../Backendless/SDK/ios/backendless/include/Presence.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

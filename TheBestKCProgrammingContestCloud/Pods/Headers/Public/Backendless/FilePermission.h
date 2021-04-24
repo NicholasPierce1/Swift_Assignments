@@ -1,0 +1,5 @@
+XSym
+0065
+ef935eb38ca037c091f22cd5711aa296
+../../../Backendless/SDK/ios/backendless/include/FilePermission.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0058
+8d0d46d846f0462afd188f99050eb6cc
+../../../Backendless/SDK/ios/backendless/include/Channel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

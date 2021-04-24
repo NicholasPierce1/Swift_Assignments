@@ -1,0 +1,5 @@
+XSym
+0069
+c7ef74cc5ac9723650faa1f5f3a09cbd
+../../../Backendless/SDK/ios/backendless/include/ISharedObjectEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0063
+1684ace93089cb39f3f6c312641b8774
+../../../Backendless/SDK/ios/backendless/include/NumberReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

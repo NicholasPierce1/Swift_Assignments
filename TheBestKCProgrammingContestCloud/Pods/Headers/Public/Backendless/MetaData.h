@@ -1,0 +1,5 @@
+XSym
+0059
+d3f501edad3c632626b1312a5af44dd9
+../../../Backendless/SDK/ios/backendless/include/MetaData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

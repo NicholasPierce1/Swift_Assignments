@@ -1,0 +1,5 @@
+XSym
+0063
+04369c3770c62d63897b3717cc7d8c9e
+../../../Backendless/SDK/ios/backendless/include/WeborbClient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

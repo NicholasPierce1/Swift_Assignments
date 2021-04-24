@@ -1,0 +1,5 @@
+XSym
+0062
+d1c88552f2e36326ea863401539e4753
+../../../Backendless/SDK/ios/backendless/include/BinaryCodec.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

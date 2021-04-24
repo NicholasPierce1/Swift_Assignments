@@ -1,0 +1,5 @@
+XSym
+0066
+7c580ad10d7801b29c4ff44146278b6f
+../../../Backendless/SDK/ios/backendless/include/ObjectFactories.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0063
+abfd5e4d09853dc946aacceca28b065c
+../../../Backendless/SDK/ios/backendless/include/BinaryStream.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

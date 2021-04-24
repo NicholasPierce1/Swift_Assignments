@@ -1,0 +1,5 @@
+XSym
+0060
+0472cd83d6dfed7773a3bc6d47ba9cf4
+../../../Backendless/SDK/ios/backendless/include/Datatypes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

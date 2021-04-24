@@ -1,0 +1,5 @@
+XSym
+0064
+8eeb89595e3081e9e78e40ec61991e59
+../../../Backendless/SDK/ios/backendless/include/MessageStatus.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

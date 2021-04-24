@@ -1,0 +1,5 @@
+XSym
+0060
+1b828a2cd0611a626db138d2d14e4c6a
+../../../Backendless/SDK/ios/backendless/include/BulkEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

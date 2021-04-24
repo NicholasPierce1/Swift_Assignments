@@ -1,0 +1,5 @@
+XSym
+0066
+384d64ca466739256e009debe5817923
+../../../Backendless/SDK/ios/backendless/include/BackendlessUser.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

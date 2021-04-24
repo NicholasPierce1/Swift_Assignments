@@ -1,0 +1,5 @@
+XSym
+0072
+51804564e99b2e002a84fd8b3fda0100
+../../../Backendless/SDK/ios/backendless/include/AnonymousObjectReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

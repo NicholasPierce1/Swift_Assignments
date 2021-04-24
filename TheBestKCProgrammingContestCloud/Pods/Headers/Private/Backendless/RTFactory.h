@@ -1,0 +1,5 @@
+XSym
+0060
+9b90b8869df09ba8fd24f36c87f95dc8
+../../../Backendless/SDK/ios/backendless/include/RTFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0073
+8548728aa10fa4fc38acd0a7b9c2aad5
+../../../Backendless/SDK/ios/backendless/include/ReconnectAttemptObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

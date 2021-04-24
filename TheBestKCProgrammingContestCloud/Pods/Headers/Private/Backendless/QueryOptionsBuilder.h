@@ -1,0 +1,5 @@
+XSym
+0070
+8c9b9a55cb98d418f06242ce5e411b71
+../../../Backendless/SDK/ios/backendless/include/QueryOptionsBuilder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

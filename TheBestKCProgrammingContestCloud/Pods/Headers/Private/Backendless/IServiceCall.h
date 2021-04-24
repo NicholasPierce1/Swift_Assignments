@@ -1,0 +1,5 @@
+XSym
+0063
+70125e766ef189feb596ba29c9f4f1f4
+../../../Backendless/SDK/ios/backendless/include/IServiceCall.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

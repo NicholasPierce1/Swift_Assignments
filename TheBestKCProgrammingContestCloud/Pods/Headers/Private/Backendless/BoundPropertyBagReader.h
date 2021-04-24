@@ -1,0 +1,5 @@
+XSym
+0073
+f5abe6d088ff39fb1483c196b5c3f44f
+../../../Backendless/SDK/ios/backendless/include/BoundPropertyBagReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

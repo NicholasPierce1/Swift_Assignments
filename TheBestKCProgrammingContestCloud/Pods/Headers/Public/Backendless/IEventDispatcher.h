@@ -1,0 +1,5 @@
+XSym
+0067
+2b1acf8ed4299db5734852c8d015d384
+../../../Backendless/SDK/ios/backendless/include/IEventDispatcher.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0062
+166035e6f34d8830e2da5b880afc0c18
+../../../Backendless/SDK/ios/backendless/include/NamedObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

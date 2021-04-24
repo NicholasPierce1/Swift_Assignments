@@ -1,0 +1,5 @@
+XSym
+0068
+886959a44e10d9747e589d45700889f2
+../../../Backendless/SDK/ios/backendless/include/ISharedObjectBase.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

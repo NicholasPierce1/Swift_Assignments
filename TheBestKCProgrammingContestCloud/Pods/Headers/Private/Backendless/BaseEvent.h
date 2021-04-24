@@ -1,0 +1,5 @@
+XSym
+0060
+a379683e9869c5e268c2c59064498233
+../../../Backendless/SDK/ios/backendless/include/BaseEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

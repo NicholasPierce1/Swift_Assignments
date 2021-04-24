@@ -1,0 +1,5 @@
+XSym
+0062
+7f117ae60c19b45d623df60af917b089
+../../../Backendless/SDK/ios/backendless/include/ReaderUtils.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

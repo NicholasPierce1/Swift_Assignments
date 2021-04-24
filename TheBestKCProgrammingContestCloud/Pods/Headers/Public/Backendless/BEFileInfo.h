@@ -1,0 +1,5 @@
+XSym
+0061
+cad07eac2d4f0af00885e77f8cb4856e
+../../../Backendless/SDK/ios/backendless/include/BEFileInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

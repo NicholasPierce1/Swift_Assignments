@@ -1,0 +1,5 @@
+XSym
+0064
+67eede3e32c88b10d5f24b5c60d07361
+../../../Backendless/SDK/ios/backendless/include/AbstractQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

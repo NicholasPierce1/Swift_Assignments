@@ -1,0 +1,5 @@
+XSym
+0062
+01b654d1b9b5cf3fefe2fd6b766856e1
+../../../Backendless/SDK/ios/backendless/include/GeoCategory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

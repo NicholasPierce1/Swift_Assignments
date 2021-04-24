@@ -1,0 +1,5 @@
+XSym
+0066
+667a98529739ede51bfc696a3f82109a
+../../../Backendless/SDK/ios/backendless/include/AMFHeaderWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

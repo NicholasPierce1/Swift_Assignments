@@ -1,0 +1,5 @@
+XSym
+0065
+b08de31eb1959f00395558d547acdda5
+../../../Backendless/SDK/ios/backendless/include/RTSharedObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

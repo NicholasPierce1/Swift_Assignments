@@ -1,0 +1,5 @@
+XSym
+0072
+840bbca7cc18c605c575739a71ebb811
+../../../Backendless/SDK/ios/backendless/include/ObjectReferenceWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

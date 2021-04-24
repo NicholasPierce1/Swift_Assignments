@@ -1,0 +1,5 @@
+XSym
+0062
+834b3692a3b7bf337d7658930965eb50
+../../../Backendless/SDK/ios/backendless/include/ITypeWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0069
+34316b4f13c210adf1e481ecf293a9bd
+../../../Backendless/SDK/ios/backendless/include/V3ObjectSerializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

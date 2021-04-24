@@ -1,0 +1,5 @@
+XSym
+0056
+28fbecb62e8f912823605935801026b6
+../../../Backendless/SDK/ios/backendless/include/Types.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

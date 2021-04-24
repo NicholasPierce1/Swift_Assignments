@@ -1,0 +1,5 @@
+XSym
+0068
+5b59d8df7853669c6299ff465a1ba4e2
+../../../Backendless/SDK/ios/backendless/include/IVideoStreamCodec.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

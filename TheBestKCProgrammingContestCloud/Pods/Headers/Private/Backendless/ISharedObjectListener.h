@@ -1,0 +1,5 @@
+XSym
+0072
+4b8e64cb98ffb9741124594b7db8657f
+../../../Backendless/SDK/ios/backendless/include/ISharedObjectListener.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

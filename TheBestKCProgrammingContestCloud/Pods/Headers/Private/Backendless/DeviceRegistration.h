@@ -1,0 +1,5 @@
+XSym
+0069
+880f74118d29f817849d13b5926f0870
+../../../Backendless/SDK/ios/backendless/include/DeviceRegistration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

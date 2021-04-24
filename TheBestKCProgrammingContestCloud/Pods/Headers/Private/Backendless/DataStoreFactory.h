@@ -1,0 +1,5 @@
+XSym
+0067
+9ff5d795c92fc5cd074e8a171d9e3a15
+../../../Backendless/SDK/ios/backendless/include/DataStoreFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

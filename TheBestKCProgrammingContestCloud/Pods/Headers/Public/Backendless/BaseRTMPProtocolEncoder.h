@@ -1,0 +1,5 @@
+XSym
+0074
+d8cf218f4a638705aef5751d03b0cdee
+../../../Backendless/SDK/ios/backendless/include/BaseRTMPProtocolEncoder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,0 +1,5 @@
+XSym
+0061
+5ac3d0be2f27f5dceaccf78ac2d70646
+../../../Backendless/SDK/ios/backendless/include/MapAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

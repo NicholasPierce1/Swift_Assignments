@@ -1,0 +1,5 @@
+XSym
+0073
+30fa4c6e044ee09d46c289994247d9f5
+../../../Backendless/SDK/ios/backendless/include/ICacheableAdaptingType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

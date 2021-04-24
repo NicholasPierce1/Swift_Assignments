@@ -1,0 +1,5 @@
+XSym
+0064
+792309c87fcb735d6ba6aa26d791e6f8
+../../../Backendless/SDK/ios/backendless/include/BeaconTracker.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

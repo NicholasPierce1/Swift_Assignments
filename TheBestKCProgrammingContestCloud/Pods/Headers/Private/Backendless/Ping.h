@@ -1,0 +1,5 @@
+XSym
+0055
+1e7d3e07e8695f601c50e30f2c8a56db
+../../../Backendless/SDK/ios/backendless/include/Ping.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,5 @@
+XSym
+0073
+4b2f6808267196ce0b50848c2be9aaca
+../../../Backendless/SDK/ios/backendless/include/AuthorizationException.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

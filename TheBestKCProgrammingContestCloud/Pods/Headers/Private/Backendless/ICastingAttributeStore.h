@@ -1,0 +1,5 @@
+XSym
+0073
+0156e0ebe231c85cabececc2277b0bca
+../../../Backendless/SDK/ios/backendless/include/ICastingAttributeStore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

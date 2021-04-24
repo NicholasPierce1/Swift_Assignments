@@ -1,0 +1,5 @@
+XSym
+0068
+9a8a283546f02c72bd3aca87bfdabace
+../../../Backendless/SDK/ios/backendless/include/PropertyBagWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

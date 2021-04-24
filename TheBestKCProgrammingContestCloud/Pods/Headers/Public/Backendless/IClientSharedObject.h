@@ -1,0 +1,5 @@
+XSym
+0070
+34aea40a6a8857ce8fac42dd7214abdd
+../../../Backendless/SDK/ios/backendless/include/IClientSharedObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

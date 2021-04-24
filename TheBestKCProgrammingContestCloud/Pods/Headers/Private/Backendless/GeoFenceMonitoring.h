@@ -1,0 +1,5 @@
+XSym
+0069
+cbbfc0208cfa098fe6cbb3bd25f136b6
+../../../Backendless/SDK/ios/backendless/include/GeoFenceMonitoring.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

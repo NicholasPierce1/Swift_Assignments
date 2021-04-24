@@ -1,0 +1,5 @@
+XSym
+0064
+832ecde36e66f42cd020656b2a04b206
+../../../Backendless/SDK/ios/backendless/include/BooleanWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

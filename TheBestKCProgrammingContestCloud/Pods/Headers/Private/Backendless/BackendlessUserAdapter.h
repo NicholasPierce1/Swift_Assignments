@@ -1,0 +1,5 @@
+XSym
+0073
+6f2f3b736e3bfb428969366f497a9f17
+../../../Backendless/SDK/ios/backendless/include/BackendlessUserAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

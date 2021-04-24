@@ -1,0 +1,5 @@
+XSym
+0060
+4907204ed87a5d04ccc7b7b47c696407
+../../../Backendless/SDK/ios/backendless/include/ArrayType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

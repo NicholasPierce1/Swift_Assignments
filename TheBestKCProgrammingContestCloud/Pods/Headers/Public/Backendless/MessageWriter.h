@@ -1,0 +1,5 @@
+XSym
+0064
+2eada91452396e408abc3cb6760fcd4d
+../../../Backendless/SDK/ios/backendless/include/MessageWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

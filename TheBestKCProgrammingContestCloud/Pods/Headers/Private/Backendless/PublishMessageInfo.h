@@ -1,0 +1,5 @@
+XSym
+0069
+a0756d0c3d289c01b0783735f67dfdcf
+../../../Backendless/SDK/ios/backendless/include/PublishMessageInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0060
+4aa128471864c03c6ca3abc99b478106
+../../../Backendless/SDK/ios/backendless/include/LogBuffer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

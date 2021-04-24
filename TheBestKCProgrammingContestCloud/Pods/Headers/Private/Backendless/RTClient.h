@@ -1,0 +1,5 @@
+XSym
+0059
+9e7367c7460c06eb93e448c5a8221556
+../../../Backendless/SDK/ios/backendless/include/RTClient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,5 @@
+XSym
+0066
+11f6c48771c76674e4bdbc571f873f03
+../../../Backendless/SDK/ios/backendless/include/AnonymousObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

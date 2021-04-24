@@ -1,0 +1,5 @@
+XSym
+0062
+59aa69c5ba197ebe7006968632ece83c
+../../../Backendless/SDK/ios/backendless/include/BooleanType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

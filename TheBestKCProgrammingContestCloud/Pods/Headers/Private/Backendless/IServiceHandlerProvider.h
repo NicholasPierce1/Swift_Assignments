@@ -1,0 +1,5 @@
+XSym
+0074
+bfc591adcc465d4556689679fab01509
+../../../Backendless/SDK/ios/backendless/include/IServiceHandlerProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

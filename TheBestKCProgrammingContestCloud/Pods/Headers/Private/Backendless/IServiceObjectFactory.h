@@ -1,0 +1,5 @@
+XSym
+0072
+6b41e137ba1f3efbb00870f3cc7f5ecd
+../../../Backendless/SDK/ios/backendless/include/IServiceObjectFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

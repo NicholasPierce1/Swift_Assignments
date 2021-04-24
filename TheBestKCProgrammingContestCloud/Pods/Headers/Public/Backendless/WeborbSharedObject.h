@@ -1,0 +1,5 @@
+XSym
+0069
+802402acf2e8785715ae90b8f14abb7b
+../../../Backendless/SDK/ios/backendless/include/WeborbSharedObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

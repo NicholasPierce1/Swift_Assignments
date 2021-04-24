@@ -1,0 +1,5 @@
+XSym
+0069
+f158ea76e59e2545f867b65c3a993a5f
+../../../Backendless/SDK/ios/backendless/include/IProtocolFormatter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

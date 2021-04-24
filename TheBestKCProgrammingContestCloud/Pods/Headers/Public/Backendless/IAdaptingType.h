@@ -1,0 +1,5 @@
+XSym
+0064
+12976cce740bc0152834fe1c73f4de23
+../../../Backendless/SDK/ios/backendless/include/IAdaptingType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

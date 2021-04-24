@@ -1,0 +1,5 @@
+XSym
+0068
+ca2e95080648067a645b30183fcabf7e
+../../../Backendless/SDK/ios/backendless/include/BackendlessEntity.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

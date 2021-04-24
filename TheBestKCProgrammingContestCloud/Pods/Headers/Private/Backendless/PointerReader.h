@@ -1,0 +1,5 @@
+XSym
+0064
+15c303c4fdf274bde97f9913548cd349
+../../../Backendless/SDK/ios/backendless/include/PointerReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

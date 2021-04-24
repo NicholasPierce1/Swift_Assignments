@@ -1,0 +1,5 @@
+XSym
+0070
+4f9012e7c78fe7a4712b080b4b8d095e
+../../../Backendless/SDK/ios/backendless/include/LongUTFStringReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

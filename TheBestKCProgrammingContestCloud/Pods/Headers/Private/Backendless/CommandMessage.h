@@ -1,0 +1,5 @@
+XSym
+0065
+59524842f899dd5be2ef3b2143908ebc
+../../../Backendless/SDK/ios/backendless/include/CommandMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

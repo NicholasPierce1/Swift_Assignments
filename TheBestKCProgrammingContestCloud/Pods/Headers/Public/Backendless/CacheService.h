@@ -1,0 +1,5 @@
+XSym
+0063
+a27d0ea862632638d25825ea6fd7cb19
+../../../Backendless/SDK/ios/backendless/include/CacheService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

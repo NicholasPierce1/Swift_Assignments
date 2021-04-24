@@ -1,0 +1,5 @@
+XSym
+0064
+5e61d2cff1d0e435df0833755e539961
+../../../Backendless/SDK/ios/backendless/include/IDeserializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

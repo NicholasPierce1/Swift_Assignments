@@ -1,0 +1,5 @@
+XSym
+0067
+e38892a48a7874e5230348175d8af8ad
+../../../Backendless/SDK/ios/backendless/include/ObjectSerializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

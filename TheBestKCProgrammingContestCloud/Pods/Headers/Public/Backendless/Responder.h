@@ -1,0 +1,5 @@
+XSym
+0060
+f0336a7626c065289df52ee2f6883690
+../../../Backendless/SDK/ios/backendless/include/Responder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0061
+a2fee732e494d257254cdf0999952255
+../../../Backendless/SDK/ios/backendless/include/NullReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

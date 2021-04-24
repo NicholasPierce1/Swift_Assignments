@@ -1,0 +1,5 @@
+XSym
+0063
+3f452b43446072fca58e9e6b75f9e61b
+../../../Backendless/SDK/ios/backendless/include/IPersistable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

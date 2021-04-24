@@ -1,0 +1,5 @@
+XSym
+0067
+0d11d285087d631a260cab2f6ad5f950
+../../../Backendless/SDK/ios/backendless/include/BeaconMonitoring.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

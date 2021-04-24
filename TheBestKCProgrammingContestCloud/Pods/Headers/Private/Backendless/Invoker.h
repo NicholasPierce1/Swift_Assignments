@@ -1,0 +1,5 @@
+XSym
+0058
+0998d972182bb098af0d58f1e74567fa
+../../../Backendless/SDK/ios/backendless/include/Invoker.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

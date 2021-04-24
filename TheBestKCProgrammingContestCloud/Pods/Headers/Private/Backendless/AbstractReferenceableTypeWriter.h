@@ -1,0 +1,5 @@
+XSym
+0082
+315cdd4519ff6287c55c95c9a168bf02
+../../../Backendless/SDK/ios/backendless/include/AbstractReferenceableTypeWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

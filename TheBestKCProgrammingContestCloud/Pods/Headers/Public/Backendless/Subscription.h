@@ -1,0 +1,5 @@
+XSym
+0063
+cb92716d8fdb2fabcef8184d7130527d
+../../../Backendless/SDK/ios/backendless/include/Subscription.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

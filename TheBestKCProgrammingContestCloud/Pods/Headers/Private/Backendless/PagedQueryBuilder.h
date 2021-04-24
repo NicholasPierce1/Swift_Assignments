@@ -1,0 +1,5 @@
+XSym
+0068
+4e5b346ab8a98a17078bad2131f66801
+../../../Backendless/SDK/ios/backendless/include/PagedQueryBuilder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0070
+114f6f3c08a54bf454286d4a1b3ef940
+../../../Backendless/SDK/ios/backendless/include/BackendlessGeoQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

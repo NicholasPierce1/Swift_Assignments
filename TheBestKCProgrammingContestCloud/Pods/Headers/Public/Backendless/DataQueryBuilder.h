@@ -1,0 +1,5 @@
+XSym
+0067
+9b88c05a867c51ce45ca88e8765a146d
+../../../Backendless/SDK/ios/backendless/include/DataQueryBuilder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0065
+edbb67249d2b3afe869b7426d04e7f54
+../../../Backendless/SDK/ios/backendless/include/V3VectorReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0057
+5146be0656a7ce41fc0ba743a56ac844
+../../../Backendless/SDK/ios/backendless/include/Logger.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

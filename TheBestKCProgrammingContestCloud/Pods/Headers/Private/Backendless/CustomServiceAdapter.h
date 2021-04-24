@@ -1,0 +1,5 @@
+XSym
+0071
+fdcf0f37d1cd3d843a876a27e25a01fb
+../../../Backendless/SDK/ios/backendless/include/CustomServiceAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

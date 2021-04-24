@@ -1,0 +1,5 @@
+XSym
+0059
+5f818c324e4ac7c5dfbe6c3f3fea441a
+../../../Backendless/SDK/ios/backendless/include/GeoPoint.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

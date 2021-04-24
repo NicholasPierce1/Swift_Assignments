@@ -1,0 +1,5 @@
+XSym
+0068
+4ebae9c8eb4b9dd31d9b16f0ed04b36d
+../../../Backendless/SDK/ios/backendless/include/NamedObjectReader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

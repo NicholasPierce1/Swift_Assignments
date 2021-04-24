@@ -1,0 +1,5 @@
+XSym
+0064
+77788033a800d969bf634e842e47ae68
+../../../Backendless/SDK/ios/backendless/include/ByteArrayType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

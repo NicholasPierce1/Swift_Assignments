@@ -1,0 +1,5 @@
+XSym
+0078
+f29bc179e332a2b1782ab1303b581159
+../../../Backendless/SDK/ios/backendless/include/IClientSharedObjectDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

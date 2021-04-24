@@ -1,0 +1,5 @@
+XSym
+0067
+f1b4bd3937d87b70e437418c2b459c58
+../../../Backendless/SDK/ios/backendless/include/IResponseAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

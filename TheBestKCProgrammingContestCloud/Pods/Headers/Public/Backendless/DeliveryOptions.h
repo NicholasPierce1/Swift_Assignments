@@ -1,0 +1,5 @@
+XSym
+0066
+4ad0ab30046a5c6bd1ea21903cc9262d
+../../../Backendless/SDK/ios/backendless/include/DeliveryOptions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

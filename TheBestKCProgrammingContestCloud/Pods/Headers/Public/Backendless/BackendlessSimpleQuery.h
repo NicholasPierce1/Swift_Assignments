@@ -1,0 +1,5 @@
+XSym
+0073
+75cb09af25a127dcba9a4dd88bb15e5a
+../../../Backendless/SDK/ios/backendless/include/BackendlessSimpleQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

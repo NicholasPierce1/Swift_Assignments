@@ -1,0 +1,5 @@
+XSym
+0069
+7849861adb4e41d2e64bf4ba5398795e
+../../../Backendless/SDK/ios/backendless/include/ClientSharedObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

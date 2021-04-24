@@ -1,0 +1,5 @@
+XSym
+0065
+992770cc44387987a2412eaa1d77add1
+../../../Backendless/SDK/ios/backendless/include/RTSubscription.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

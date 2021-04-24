@@ -1,0 +1,5 @@
+XSym
+0061
+bf498c207e908696f7e99dc05f8644e1
+../../../Backendless/SDK/ios/backendless/include/GeoCluster.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

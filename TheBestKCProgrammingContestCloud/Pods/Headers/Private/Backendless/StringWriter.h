@@ -1,0 +1,5 @@
+XSym
+0063
+78e77a3f44e3bec1bf25ff5b03d8342c
+../../../Backendless/SDK/ios/backendless/include/StringWriter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

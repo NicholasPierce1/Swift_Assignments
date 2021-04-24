@@ -1,0 +1,5 @@
+XSym
+0071
+1f55575ee6965f1cdac3b70a8e8361ce
+../../../Backendless/SDK/ios/backendless/include/ISharedObjectMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

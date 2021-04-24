@@ -1,0 +1,5 @@
+XSym
+0061
+d3dd3822fac2e0887701f6ed1f83bba9
+../../../Backendless/SDK/ios/backendless/include/GeoService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

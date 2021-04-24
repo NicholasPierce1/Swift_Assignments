@@ -1,0 +1,5 @@
+XSym
+0078
+93f863d3b8d5fcb2a79190a528dd018b
+../../../Backendless/SDK/ios/backendless/include/Backendless-Bridging-Header.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0061
+108d6473c904abe94453e435457485c0
+../../../Backendless/SDK/ios/backendless/include/StringType.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

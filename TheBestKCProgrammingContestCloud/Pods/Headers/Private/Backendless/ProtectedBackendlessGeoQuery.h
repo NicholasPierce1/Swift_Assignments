@@ -1,0 +1,5 @@
+XSym
+0079
+ed650a46fadeeea1f95f70b460f4c2d9
+../../../Backendless/SDK/ios/backendless/include/ProtectedBackendlessGeoQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

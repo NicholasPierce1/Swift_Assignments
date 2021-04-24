@@ -1,0 +1,5 @@
+XSym
+0066
+10869a87fbf4c30c05d53331c7b7173e
+../../../Backendless/SDK/ios/backendless/include/LocationTracker.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

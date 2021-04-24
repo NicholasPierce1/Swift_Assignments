@@ -1,0 +1,5 @@
+XSym
+0066
+6ec759b8ed1908cd7994b4bfe9c5b108
+../../../Backendless/SDK/ios/backendless/include/ClassDefinition.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
